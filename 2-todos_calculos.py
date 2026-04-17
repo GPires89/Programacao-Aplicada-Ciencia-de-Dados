@@ -1,3 +1,6 @@
+print("Todos os calculos")
+print("------------------------------------------")
+
 #Entrada dos dados
 a=float(input("digite um número: "))
 b=float(input("digite outro número: "))
