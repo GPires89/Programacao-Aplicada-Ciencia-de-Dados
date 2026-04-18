@@ -50,6 +50,6 @@ while True:
         break
     else:
         print("\n[***Opção inválida]")
-    time.sleep(10)
+    time.sleep(3)
         
 

@@ -1,0 +1,30 @@
+import subprocess as spr
+import time
+import pprint
+
+while True:
+    spr.run("cls", shell=True)#Limpa a tela
+    print("="*25)
+    print("**** Menu Filmes ****")
+    print("="*25)
+    print("1- Incluir Filmes")
+    print("2- Alterar Filmes")
+    print("3- Listar Filmes")
+    print("4- Excluir Filmes")
+    print("0- Sair")
+
+    opcao = input("Digite a opção desejada: ")
+
+    if opcao == "1":
+        spr.run(["python", "1-area_triangulo.py"])
+    elif opcao == "2":
+        spr.run(["python", "2-todos_calculos.py"])
+    elif opcao == "3":
+        spr.run(["python", "3-par_impar.py"])
+    elif opcao == "4":
+        spr.run(["python", "4-compara_numeros.py"])
+    elif opcao == "0":
+        break
+    else:
+        print("\n[***Opção inválida]")
+    time.sleep(10)
