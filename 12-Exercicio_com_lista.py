@@ -1,4 +1,3 @@
-n
 """ 
     Receber do usuário uma lista de números.
     Finalizar a entrada quando for digitado -999.
