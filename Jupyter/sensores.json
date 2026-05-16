@@ -1,0 +1,12 @@
+[
+    {"hora": "08:00", "sensor_id": "A1", "temp": 22.5},
+    {"hora": "09:00", "sensor_id": "A1", "temp": null},
+    {"hora": "10:00", "sensor_id": "A1", "temp": 24.1},
+    {"hora": "11:00", "sensor_id": "A1", "temp": 28.0},
+    {"hora": "12:00", "sensor_id": "A1", "temp": null},
+    {"hora": "13:00", "sensor_id": "A1", "temp": 29.5},
+    {"hora": "14:00", "sensor_id": "A1", "temp": 27.2},
+    {"hora": "15:00", "sensor_id": "A1", "temp": null},
+    {"hora": "16:00", "sensor_id": "A1", "temp": 25.0},
+    {"hora": "17:00", "sensor_id": "A1", "temp": 23.8}
+]
